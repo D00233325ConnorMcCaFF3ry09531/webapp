@@ -12,3 +12,9 @@ web-build/
 
 # macOS
 .DS_Store
+
+# Node
+node_modules
+*.log
+.nvm
+package-lock.json
